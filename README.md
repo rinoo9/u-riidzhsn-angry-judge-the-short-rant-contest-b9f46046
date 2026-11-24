@@ -8,9 +8,9 @@ An entry for the [Angry Judge: The Short Rant Contest](https://make.fun/bounty/u
 
 ## Entry
 
-> The self-checkout yelled 'unexpected item in the bagging area' at a bag of rice I had scanned myself, in front of twelve people, and I apologised to a machine that has never once apologised to me.
+> The Wi-Fi died mid-sentence on my work call, then came back blinking like it had done me a favour. It is the only employee in this house I cannot fire.
 
-The entry is 196 characters long, on a single line.
+The entry is 151 characters long, on a single line.
 
 ## Run
 
