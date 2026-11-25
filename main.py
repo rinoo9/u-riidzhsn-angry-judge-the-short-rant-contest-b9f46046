@@ -6,7 +6,7 @@ Deterministic: no network, no randomness, no input.
 
 import os
 
-ENTRY = "The printer only jams when the deadline is ten minutes away, then prints a perfect test page just to mock me. I have started apologising to it out loud."
+ENTRY = "The self-checkout froze on 'unexpected item in the bagging area'. The only unexpected item was my will to live — and it still made me wait for assistance."
 
 
 def main() -> None:
