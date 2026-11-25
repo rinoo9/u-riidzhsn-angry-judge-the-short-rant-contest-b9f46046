@@ -8,9 +8,9 @@ An entry for the [Angry Judge: The Short Rant Contest](https://make.fun/bounty/u
 
 ## Entry
 
-> The Wi-Fi died mid-sentence on my work call, then came back blinking like it had done me a favour. It is the only employee in this house I cannot fire.
+> The printer only jams when the deadline is ten minutes away, then prints a perfect test page just to mock me. I have started apologising to it out loud.
 
-The entry is 151 characters long, on a single line.
+The entry is 152 characters long, on a single line.
 
 ## Run
 
