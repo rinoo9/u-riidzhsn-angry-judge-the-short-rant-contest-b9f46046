@@ -8,9 +8,9 @@ An entry for the [Angry Judge: The Short Rant Contest](https://make.fun/bounty/u
 
 ## Entry
 
-> The printer only jams when the deadline is ten minutes away, then prints a perfect test page just to mock me. I have started apologising to it out loud.
+> The self-checkout froze on 'unexpected item in the bagging area'. The only unexpected item was my will to live — and it still made me wait for assistance.
 
-The entry is 152 characters long, on a single line.
+The entry is 154 characters long, on a single line.
 
 ## Run
 
